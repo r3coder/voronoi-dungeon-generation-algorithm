@@ -8,7 +8,7 @@ This repository provides dungeon generation algorithm using voronoi diagram.
 
 
 
-![Step_1](Sample\Step_1.png)
+![Step_1](./Sample/Step_1.png)
 
 ## Step 2
 
@@ -16,7 +16,7 @@ This repository provides dungeon generation algorithm using voronoi diagram.
 
 
 
-![Step_2](Sample\Step_2.png)
+![Step_2](./Sample/Step_2.png)
 
 
 
@@ -24,7 +24,7 @@ This repository provides dungeon generation algorithm using voronoi diagram.
 
 
 
-![Step_3](Sample\Step_3.png)
+![Step_3](./Sample/Step_3.png)
 
 
 
@@ -32,4 +32,4 @@ This repository provides dungeon generation algorithm using voronoi diagram.
 
 
 
-![Step_4](Sample\Step_4.png)
+![Step_4](./Sample/Step_4.png)
